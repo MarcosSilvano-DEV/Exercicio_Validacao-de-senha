@@ -1,0 +1,13 @@
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\bin\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.exe
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\bin\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.deps.json
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\bin\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.runtimeconfig.json
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\bin\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.runtimeconfig.dev.json
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\bin\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.dll
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\bin\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.pdb
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.csprojAssemblyReference.cache
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.AssemblyInfoInputs.cache
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.AssemblyInfo.cs
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.csproj.CoreCompileInputs.cache
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.dll
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.pdb
+C:\Projetos SENAI\Exercicio_Validacao-de-senha\obj\Debug\netcoreapp3.1\Exercicio_Validacao-de-senha.genruntimeconfig.cache
